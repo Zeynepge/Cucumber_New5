@@ -33,8 +33,7 @@ public class _01_LoginSteps {
 
 //        WebDriverWait wait=new WebDriverWait(GWD.getDriver(), Duration.ofSeconds(30));
 //        wait.until(ExpectedConditions.visibilityOf(dc.username));
-//        dc.username.sendKeys("turkeyts");
-//        dc.password.sendKeys("TechnoStudy123!");
+//
 //        dc.loginButton.click();
 
         String path="src/test/java/Excel_Data/Campus_Data.xlsx";
